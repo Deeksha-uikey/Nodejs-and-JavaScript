@@ -1,0 +1,11 @@
+5) Create a Node.js file for deleting the existing file using the File
+System module. 
+
+
+var fs = require('fs');
+
+fs.unlink('newfile.txt', function (err)
+{
+    if (err) throw err;
+    console.log("FILE DELETED");
+});

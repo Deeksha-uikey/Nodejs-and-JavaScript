@@ -1,0 +1,8 @@
+2) What is a Module in Node.js?
+answer -- 
+
+       we can consider module to be same as JavaScript or python libraries. 
+
+       Modules can be a set of functions you want to include in your application.
+
+       node.js has a set of built-in modules which you can use without any further installations. 

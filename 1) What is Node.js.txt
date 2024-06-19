@@ -1,0 +1,11 @@
+1) What is Node.js?
+
+answer -- 
+        * node.js is an open-source server environment.
+
+        * node.js it is freely available on the internet.
+
+        * node.js runs on various platforms like - windows, mac OS, Linux and Unix etc.
+
+        * node.js uses JavaScript on the server.
+
